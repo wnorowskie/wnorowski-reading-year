@@ -1,0 +1,233 @@
+[
+  {
+    "id": "one-golden-summer",
+    "title": "One Golden Summer",
+    "author": "Fortune, Carley",
+    "rating": 4,
+    "dateFinished": "2025-11-04",
+    "coverImageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1723652503l/217245639._SY75_.jpg",
+    "goodreadsUrl": "https://www.goodreads.com/book/show/217245639-one-golden-summer",
+    "pages": 352,
+    "genre": "Romance"
+  },
+  {
+    "id": "the-four-winds",
+    "title": "The Four Winds",
+    "author": "Hannah, Kristin",
+    "rating": 4,
+    "dateFinished": "2025-10-24",
+    "coverImageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1598452318l/53138081._SY75_.jpg",
+    "goodreadsUrl": "https://www.goodreads.com/book/show/53138081-the-four-winds",
+    "pages": 464,
+    "genre": "Historical Fiction"
+  },
+  {
+    "id": "crooked-kingdom-six-of-crows-2",
+    "title": "Crooked Kingdom (Six of Crows, #2)",
+    "author": "Bardugo, Leigh",
+    "rating": 4,
+    "dateFinished": "2025-10-19",
+    "coverImageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1456172607l/22299763._SY75_.jpg",
+    "goodreadsUrl": "https://www.goodreads.com/book/show/22299763-crooked-kingdom",
+    "pages": 546,
+    "genre": "YA Fantasy"
+  },
+  {
+    "id": "onyx-storm-the-empyrean-3",
+    "title": "Onyx Storm (The Empyrean, #3)",
+    "author": "Yarros, Rebecca",
+    "rating": null,
+    "dateFinished": "2025-09-03",
+    "coverImageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1720446357l/209439446._SX50_.jpg",
+    "goodreadsUrl": "https://www.goodreads.com/book/show/209439446-onyx-storm",
+    "pages": 736,
+    "genre": "Fantasy / Romance"
+  },
+  {
+    "id": "summer-reading",
+    "title": "Summer Reading",
+    "author": "McKinlay, Jenn",
+    "rating": 2,
+    "dateFinished": "2025-08-06",
+    "coverImageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1665779154l/62339069._SY75_.jpg",
+    "goodreadsUrl": "https://www.goodreads.com/book/show/62339069-summer-reading",
+    "pages": 416,
+    "genre": "Romance"
+  },
+  {
+    "id": "the-ocean-at-the-end-of-the-lane",
+    "title": "The Ocean at the End of the Lane",
+    "author": "Gaiman, Neil",
+    "rating": 4,
+    "dateFinished": "2025-07-22",
+    "coverImageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1497098493l/18505792._SY75_.jpg",
+    "goodreadsUrl": "https://www.goodreads.com/book/show/18505792-the-ocean-at-the-end-of-the-lane",
+    "pages": 181,
+    "genre": "Fantasy"
+  },
+  {
+    "id": "the-hunting-party",
+    "title": "The Hunting Party",
+    "author": "Foley, Lucy",
+    "rating": 3,
+    "dateFinished": "2025-07-20",
+    "coverImageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1539622811l/39971477._SY75_.jpg",
+    "goodreadsUrl": "https://www.goodreads.com/book/show/39971477-the-hunting-party",
+    "pages": 336,
+    "genre": "Mystery & Thriller"
+  },
+  {
+    "id": "society-of-lies",
+    "title": "Society of Lies",
+    "author": "Brown, Lauren Ling",
+    "rating": 4,
+    "dateFinished": "2025-07-16",
+    "coverImageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1716390376l/217295557._SY75_.jpg",
+    "goodreadsUrl": "https://www.goodreads.com/book/show/217295557-society-of-lies",
+    "pages": 400,
+    "genre": "Mystery & Thriller"
+  },
+  {
+    "id": "the-favorites",
+    "title": "The Favorites",
+    "author": "Fargo, Layne",
+    "rating": 4,
+    "dateFinished": "2025-11-11",
+    "coverImageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1713149403l/211399784._SY75_.jpg",
+    "goodreadsUrl": "https://www.goodreads.com/book/show/211399784-the-favorites",
+    "pages": 384,
+    "genre": "Romance"
+  },
+  {
+    "id": "bad-blood-the-naturals-4",
+    "title": "Bad Blood (The Naturals, #4)",
+    "author": "Barnes, Jennifer Lynn",
+    "rating": 4,
+    "dateFinished": "2025-06-26",
+    "coverImageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1477739068l/27424547._SY75_.jpg",
+    "goodreadsUrl": "https://www.goodreads.com/book/show/27424547-bad-blood",
+    "pages": 528,
+    "genre": "YA Thriller"
+  },
+  {
+    "id": "all-in-the-naturals-3",
+    "title": "All In (The Naturals, #3)",
+    "author": "Barnes, Jennifer Lynn",
+    "rating": 5,
+    "dateFinished": "2025-06-23",
+    "coverImageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1446265230l/24849026._SY75_.jpg",
+    "goodreadsUrl": "https://www.goodreads.com/book/show/24849026-all-in",
+    "pages": 400,
+    "genre": "YA Thriller"
+  },
+  {
+    "id": "killer-instinct-the-naturals-2",
+    "title": "Killer Instinct (The Naturals, #2)",
+    "author": "Barnes, Jennifer Lynn",
+    "rating": 4,
+    "dateFinished": "2025-06-21",
+    "coverImageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1446212552l/20409231._SY75_.jpg",
+    "goodreadsUrl": "https://www.goodreads.com/book/show/20409231-killer-instinct",
+    "pages": 400,
+    "genre": "YA Thriller"
+  },
+  {
+    "id": "the-naturals-the-naturals-1",
+    "title": "The Naturals (The Naturals, #1)",
+    "author": "Barnes, Jennifer Lynn",
+    "rating": 4,
+    "dateFinished": "2025-06-17",
+    "coverImageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1620015212l/18517840._SY75_.jpg",
+    "goodreadsUrl": "https://www.goodreads.com/book/show/18517840-the-naturals",
+    "pages": 320,
+    "genre": "YA Thriller"
+  },
+  {
+    "id": "the-water-keeper",
+    "title": "The Water Keeper",
+    "author": "Martin, Charles",
+    "rating": 4,
+    "dateFinished": "2025-06-14",
+    "coverImageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1575330165l/48613324._SY75_.jpg",
+    "goodreadsUrl": "https://www.goodreads.com/book/show/48613324-the-water-keeper",
+    "pages": 384,
+    "genre": "Christian Fiction"
+  },
+  {
+    "id": "the-last-one-at-the-wedding",
+    "title": "The Last One at the Wedding",
+    "author": "Rekulak, Jason",
+    "rating": 4,
+    "dateFinished": "2025-06-12",
+    "coverImageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1711738371l/203590129._SY75_.jpg",
+    "goodreadsUrl": "https://www.goodreads.com/book/show/203590129-the-last-one-at-the-wedding",
+    "pages": 352,
+    "genre": "Horror / Thriller"
+  },
+  {
+    "id": "kingdom-of-ash-throne-of-glass-7",
+    "title": "Kingdom of Ash (Throne of Glass, #7)",
+    "author": "Maas, Sarah J.",
+    "rating": null,
+    "dateFinished": "2025-05-22",
+    "coverImageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1678169927l/76098173._SY75_.jpg",
+    "goodreadsUrl": "https://www.goodreads.com/book/show/76098173-kingdom-of-ash",
+    "pages": 984,
+    "genre": "YA Fantasy"
+  },
+  {
+    "id": "tower-of-dawn-throne-of-glass-6",
+    "title": "Tower of Dawn (Throne of Glass, #6)",
+    "author": "Maas, Sarah J.",
+    "rating": null,
+    "dateFinished": "2025-05-18",
+    "coverImageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1676979857l/76713384._SY75_.jpg",
+    "goodreadsUrl": "https://www.goodreads.com/book/show/76713384-tower-of-dawn",
+    "pages": 672,
+    "genre": "YA Fantasy"
+  },
+  {
+    "id": "empire-of-storms-throne-of-glass-5",
+    "title": "Empire of Storms (Throne of Glass, #5)",
+    "author": "Maas, Sarah J.",
+    "rating": null,
+    "dateFinished": "2025-05-06",
+    "coverImageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1676979605l/76713323._SY75_.jpg",
+    "goodreadsUrl": "https://www.goodreads.com/book/show/76713323-empire-of-storms",
+    "pages": 720,
+    "genre": "YA Fantasy"
+  },
+  {
+    "id": "queen-of-shadows-throne-of-glass-4",
+    "title": "Queen of Shadows (Throne of Glass, #4)",
+    "author": "Maas, Sarah J.",
+    "rating": null,
+    "dateFinished": "2025-02-11",
+    "coverImageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1673566810l/76707900._SY75_.jpg",
+    "goodreadsUrl": "https://www.goodreads.com/book/show/76707900-queen-of-shadows",
+    "pages": 672,
+    "genre": "YA Fantasy"
+  },
+  {
+    "id": "heir-of-fire-throne-of-glass-3",
+    "title": "Heir of Fire (Throne of Glass, #3)",
+    "author": "Maas, Sarah J.",
+    "rating": null,
+    "dateFinished": "2025-01-18",
+    "coverImageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1673566654l/76706470._SY75_.jpg",
+    "goodreadsUrl": "https://www.goodreads.com/book/show/76706470-heir-of-fire",
+    "pages": 592,
+    "genre": "YA Fantasy"
+  },
+  {
+    "id": "the-assassin-s-blade-throne-of-glass-0-1-0-5",
+    "title": "The Assassin's Blade (Throne of Glass, #0.1-0.5)",
+    "author": "Maas, Sarah J.",
+    "rating": null,
+    "dateFinished": "2025-01-02",
+    "coverImageUrl": "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1680869667l/126062562._SY75_.jpg",
+    "goodreadsUrl": "https://www.goodreads.com/book/show/126062562-the-assassin-s-blade",
+    "pages": 464,
+    "genre": "YA Fantasy"
+  }
+]
