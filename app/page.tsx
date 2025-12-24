@@ -83,9 +83,29 @@ export default function Home() {
           </p>
         </div>
         <div className="grid gap-4 md:grid-cols-2">
-          {members.map((member) => (
-            <MemberCard key={member.id} member={member} />
-          ))}
+          {members.map((member) =>
+            member.id === "dad" ? (
+              <a
+                key={member.id}
+                href="https://www.goodreads.com"
+                target="_blank"
+                rel="noopener noreferrer"
+                className="group relative flex flex-col items-center justify-center gap-4 overflow-hidden rounded-3xl border-2 border-dashed border-amber-300 bg-amber-50 p-8 shadow-sm transition hover:-translate-y-1 hover:shadow-md hover:border-amber-400"
+              >
+                <div className="text-6xl">📚</div>
+                <div className="text-center">
+                  <p className="text-xs uppercase tracking-[0.3em] text-amber-600">Dad</p>
+                  <h3 className="mt-2 font-serif text-2xl text-stone-900">Update your Goodreads!</h3>
+                  <p className="mt-1 text-sm text-stone-600">We&rsquo;re waiting to see your books 📖</p>
+                </div>
+                <div className="text-sm font-semibold text-amber-700">
+                  Go to Goodreads →
+                </div>
+              </a>
+            ) : (
+              <MemberCard key={member.id} member={member} />
+            )
+          )}
         </div>
       </section>
     </div>
