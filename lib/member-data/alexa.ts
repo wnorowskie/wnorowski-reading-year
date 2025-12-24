@@ -5,6 +5,18 @@ export const alexaReadingYear: FamilyMember = {
   name: "Alexa",
   books: [
     {
+      id: "gallant",
+      title: "Gallant",
+      author: "Schwab, V.E.",
+      coverImageUrl:
+        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1635862579l/58064046.jpg",
+      dateFinished: "2025-12-20",
+      pages: 338,
+      rating: 4,
+      genre: "Fantasy",
+      goodreadsUrl: "https://www.goodreads.com/book/show/58064046-gallant",
+    },
+    {
       id: "the-body-is-not-an-apology-the-power-of-radical-self-love",
       title: "The Body Is Not an Apology: The Power of Radical Self-Love",
       author: "Taylor, Sonya Renee",
@@ -370,6 +382,107 @@ export const alexaReadingYear: FamilyMember = {
       pages: 336,
       genre: "Short Stories / Fiction",
       goodreadsUrl: "https://www.goodreads.com/book/show/13530981-dear-life",
+    },
+    {
+      id: "the-immortal-life-of-henrietta-lacks",
+      title: "The Immortal Life of Henrietta Lacks",
+      author: "Skloot, Rebecca",
+      coverImageUrl:
+        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327878144l/6493208.jpg",
+      dateFinished: "2025-04-09",
+      pages: 381,
+      rating: 5,
+      genre: "Nonfiction / Science",
+      goodreadsUrl:
+        "https://www.goodreads.com/book/show/6493208-the-immortal-life-of-henrietta-lacks",
+    },
+    {
+      id: "all-about-love-new-visions",
+      title: "All About Love: New Visions",
+      author: "hooks, bell",
+      coverImageUrl:
+        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1757107647l/17607.jpg",
+      dateFinished: "2025-04-03",
+      pages: 272,
+      rating: 3,
+      genre: "Nonfiction / Philosophy",
+      goodreadsUrl: "https://www.goodreads.com/book/show/17607.All_About_Love",
+    },
+    {
+      id: "remarkably-bright-creatures",
+      title: "Remarkably Bright Creatures",
+      author: "Van Pelt, Shelby",
+      coverImageUrl:
+        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1651600548l/58733693.jpg",
+      dateFinished: "2025-03-16",
+      pages: 368,
+      rating: 5,
+      genre: "Fiction",
+      goodreadsUrl:
+        "https://www.goodreads.com/book/show/58733693-remarkably-bright-creatures",
+    },
+    {
+      id: "doppelganger-a-trip-into-the-mirror-world",
+      title: "Doppelganger: A Trip into the Mirror World",
+      author: "Klein, Naomi",
+      coverImageUrl:
+        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1689105362l/138505710.jpg",
+      dateFinished: "2025-03-14",
+      pages: 416,
+      rating: 4,
+      genre: "Nonfiction / Politics",
+      goodreadsUrl:
+        "https://www.goodreads.com/book/show/138505710-doppelganger",
+    },
+    {
+      id: "the-very-secret-society-of-irregular-witches",
+      title: "The Very Secret Society of Irregular Witches",
+      author: "Mandanna, Sangu",
+      coverImageUrl:
+        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1643062993l/60018635.jpg",
+      dateFinished: "2025-02-28",
+      pages: 352,
+      rating: 4,
+      genre: "Fantasy / Romance",
+      goodreadsUrl:
+        "https://www.goodreads.com/book/show/60018635-the-very-secret-society-of-irregular-witches",
+    },
+    {
+      id: "a-conjuring-of-light-shades-of-magic-3",
+      title: "A Conjuring of Light (Shades of Magic, #3)",
+      author: "Schwab, V.E.",
+      coverImageUrl:
+        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1758323297l/29939230.jpg",
+      dateFinished: "2025-02-20",
+      pages: 624,
+      rating: 4,
+      genre: "Fantasy",
+      goodreadsUrl:
+        "https://www.goodreads.com/book/show/29939230-a-conjuring-of-light",
+    },
+    {
+      id: "clytemnestra",
+      title: "Clytemnestra",
+      author: "Casati, Costanza",
+      coverImageUrl:
+        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1656358463l/61361681.jpg",
+      dateFinished: "2025-01-28",
+      pages: 435,
+      rating: 4,
+      genre: "Historical Fiction / Mythology",
+      goodreadsUrl: "https://www.goodreads.com/book/show/61361681-clytemnestra",
+    },
+    {
+      id: "wellness",
+      title: "Wellness",
+      author: "Hill, Nathan",
+      coverImageUrl:
+        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1695742140l/65650229.jpg",
+      dateFinished: "2025-01-08",
+      pages: 624,
+      rating: 5,
+      genre: "Fiction",
+      goodreadsUrl: "https://www.goodreads.com/book/show/65650229-wellness",
     },
   ],
 };
