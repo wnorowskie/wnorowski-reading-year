@@ -34,7 +34,7 @@ export const dadReadingYear: FamilyMember = {
       title: "I Am Pilgrim",
       author: "Hayes, Terry",
       coverImageUrl:
-        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388186802l/18144124.jpg",
+        "https://covers.openlibrary.org/b/id/9128395-L.jpg",
       dateFinished: "2025-11-07",
       rating: 4,
       goodreadsUrl: "https://www.goodreads.com/book/show/18144124-i-am-pilgrim",
@@ -59,7 +59,7 @@ export const dadReadingYear: FamilyMember = {
       title: "The Girl Who Kicked the Hornet's Nest (Millennium, #3)",
       author: "Larsson, Stieg",
       coverImageUrl:
-        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1351778881l/6892870.jpg",
+        "https://covers.openlibrary.org/b/id/6581441-L.jpg",
       dateFinished: "2025-10-13",
       rating: 4,
       goodreadsUrl:
@@ -85,7 +85,7 @@ export const dadReadingYear: FamilyMember = {
       title: "In the Woods (Dublin Murder Squad, #1)",
       author: "French, Tana",
       coverImageUrl:
-        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1410739346l/237209.jpg",
+        "https://covers.openlibrary.org/b/id/1474730-L.jpg",
       dateFinished: "2025-09-17",
       rating: 4,
       goodreadsUrl: "https://www.goodreads.com/book/show/237209.In_the_Woods",
@@ -97,7 +97,7 @@ export const dadReadingYear: FamilyMember = {
       title: "Killer Instinct (Naturals, #2)",
       author: "Barnes, Jennifer Lynn",
       coverImageUrl:
-        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1394401535l/20409231.jpg",
+        "https://covers.openlibrary.org/b/id/10318713-L.jpg",
       dateFinished: "2025-08-28",
       rating: 5,
       goodreadsUrl:
@@ -110,7 +110,7 @@ export const dadReadingYear: FamilyMember = {
       title: "The Girl Who Played with Fire (Millennium, #2)",
       author: "Larsson, Stieg",
       coverImageUrl:
-        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1327868566l/5060378.jpg",
+        "https://covers.openlibrary.org/b/id/10639656-L.jpg",
       dateFinished: "2025-08-15",
       rating: 4,
       goodreadsUrl:
@@ -123,7 +123,7 @@ export const dadReadingYear: FamilyMember = {
       title: "The Naturals (Naturals, #1)",
       author: "Barnes, Jennifer Lynn",
       coverImageUrl:
-        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1381568858l/13597723.jpg",
+        "https://covers.openlibrary.org/b/id/7267454-L.jpg",
       dateFinished: "2025-08-08",
       rating: 5,
       goodreadsUrl:
@@ -136,7 +136,7 @@ export const dadReadingYear: FamilyMember = {
       title: "Extremely Loud & Incredibly Close",
       author: "Foer, Jonathan Safran",
       coverImageUrl:
-        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1484589480l/4588.jpg",
+        "https://covers.openlibrary.org/b/id/805730-L.jpg",
       dateFinished: "2025-07-26",
       rating: 4,
       goodreadsUrl:
@@ -162,7 +162,7 @@ export const dadReadingYear: FamilyMember = {
       title: "The Women",
       author: "Hannah, Kristin",
       coverImageUrl:
-        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1689860716l/151219552.jpg",
+        "https://covers.openlibrary.org/b/id/207915-L.jpg",
       dateFinished: "2025-07-06",
       rating: 5,
       goodreadsUrl: "https://www.goodreads.com/book/show/151219552-the-women",
@@ -174,7 +174,7 @@ export const dadReadingYear: FamilyMember = {
       title: "Beautiful World, Where Are You",
       author: "Rooney, Sally",
       coverImageUrl:
-        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1618327801l/58687655.jpg",
+        "https://covers.openlibrary.org/b/id/10550746-L.jpg",
       dateFinished: "2025-06-26",
       rating: 4,
       goodreadsUrl:
@@ -187,7 +187,7 @@ export const dadReadingYear: FamilyMember = {
       title: "One Flew Over the Cuckoo's Nest",
       author: "Kesey, Ken",
       coverImageUrl:
-        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1666967865l/332613.jpg",
+        "https://covers.openlibrary.org/b/id/9272688-L.jpg",
       dateFinished: "2025-06-01",
       rating: 5,
       goodreadsUrl:
@@ -200,7 +200,7 @@ export const dadReadingYear: FamilyMember = {
       title: "Thinking, Fast and Slow",
       author: "Kahneman, Daniel",
       coverImageUrl:
-        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1705680955l/11468377.jpg",
+        "https://covers.openlibrary.org/b/id/13290711-L.jpg",
       dateFinished: "2025-05-25",
       rating: 4,
       goodreadsUrl:
@@ -213,7 +213,7 @@ export const dadReadingYear: FamilyMember = {
       title: "My Year of Rest and Relaxation",
       author: "Moshfegh, Ottessa",
       coverImageUrl:
-        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1672330040l/44279110.jpg",
+        "https://covers.openlibrary.org/b/id/8202400-L.jpg",
       dateFinished: "2025-05-16",
       rating: 4,
       goodreadsUrl:
@@ -226,7 +226,7 @@ export const dadReadingYear: FamilyMember = {
       title: "On the Road",
       author: "Kerouac, Jack",
       coverImageUrl:
-        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1716827350l/15858.jpg",
+        "https://covers.openlibrary.org/b/id/34655-L.jpg",
       dateFinished: "2025-05-07",
       rating: 4,
       goodreadsUrl: "https://www.goodreads.com/book/show/15858.On_the_Road",
@@ -238,7 +238,7 @@ export const dadReadingYear: FamilyMember = {
       title: "Keeping the Faith: God, Democracy, and the Trial That Riveted a Nation",
       author: "Dershowitz, Alan M.",
       coverImageUrl:
-        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1388271740l/492004.jpg",
+        "https://covers.openlibrary.org/b/id/14830950-L.jpg",
       dateFinished: "2025-04-30",
       rating: 4,
       goodreadsUrl:
@@ -251,7 +251,7 @@ export const dadReadingYear: FamilyMember = {
       title: "A Court of Silver Flames (A Court of Thorns and Roses, #4)",
       author: "Maas, Sarah J.",
       coverImageUrl:
-        "https://i.gr-assets.com/images/S/compressed.photo.goodreads.com/books/1599339782l/31050237.jpg",
+        "https://covers.openlibrary.org/b/id/10643508-L.jpg",
       dateFinished: "2025-04-21",
       rating: 4,
       goodreadsUrl:
